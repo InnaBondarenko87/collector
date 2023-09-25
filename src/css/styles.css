@@ -15,3 +15,9 @@
   line-height: 24px;
   font-weight: 400;
 } */
+:root {
+  --body-text: #555;
+  --title-color: #303030;
+  --accent-color: #FF6C00;
+  --primari-brand: #fff;
+}
